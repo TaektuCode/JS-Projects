@@ -11,3 +11,8 @@ Live: https://taektucode.github.io/Quote-Generator/
 
 A photo collection with infinite scroll, used API from Unsplash. <br>
 Live: https://taektucode.github.io/Infinity-Scroll/
+
+### Hangman-App
+
+Just a simple Hangman game, give it a try!<br>
+Live: https://taektucode.github.io/hangman-app/
