@@ -20,3 +20,7 @@ Live: https://taektucode.github.io/hangman-app/
 ### Picture in Picture
 You can share a video and place it wherever you want on your screen. Just pick a tab or any screen and click start<br>
 Live: https://taektucode.github.io/picture-in-picture/
+
+### Joke Teller
+This App will tell you some programer jokes. I used a Joke API and a Text-to-Speech API for this.
+Live: https://taektucode.github.io/joke-teller/
