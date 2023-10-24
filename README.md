@@ -16,3 +16,7 @@ Live: https://taektucode.github.io/Infinity-Scroll/
 
 Just a simple Hangman game, give it a try!<br>
 Live: https://taektucode.github.io/hangman-app/
+
+### Picture in Picture
+You can share a video and place it wherever you want on your screen. Just pick a tab or any screen and click start<br>
+Live: https://taektucode.github.io/picture-in-picture/
