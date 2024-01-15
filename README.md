@@ -5,6 +5,7 @@ Different JavaScript Projects.
 ### Joke-Teller
 
 A Joke Teller App with text-to-speech
+<br>
 Live: https://taektucode.github.io/joke-teller/
 
 ### Quote-Generator
