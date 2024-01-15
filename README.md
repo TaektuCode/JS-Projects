@@ -29,10 +29,10 @@ Live: https://taektucode.github.io/picture-in-picture/
 
 ### Joke Teller
 
-This App will tell you some programer jokes. I used a Joke API and a Text-to-Speech API for this.
+This App will tell you some programer jokes. I used a Joke API and a Text-to-Speech API for this.<br>
 Live: https://taektucode.github.io/joke-teller/
 
 ### Guess my number
 
-A small Game where you have to guess a random number.
+A small Game where you have to guess a random number.<br>
 Live: https://taektucode.github.io/guess-my-number/
