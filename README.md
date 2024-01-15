@@ -2,6 +2,10 @@
 
 Different JavaScript Projects.
 
+### Joke-Teller
+A Joke Teller App with text-to-speech
+Live: https://taektucode.github.io/joke-teller/
+
 ### Quote-Generator
 
 A simple Random Quote-Generator with a feature to post your random quote on twitter. <br>
